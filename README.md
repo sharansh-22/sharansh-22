@@ -10,7 +10,7 @@ B.Tech Artificial Intelligence & Data Science · GGSIPU · 2027
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharansh-pandey)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharanshpandey22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharansh-pandey-4b78123a8/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharanshpandey22@gmail.com)
 
 </div>
 
@@ -104,6 +104,5 @@ Quantitative Finance · Risk Analytics · Statistical Learning · Decision Syste
 
 ---
 
-<br>
 
 
