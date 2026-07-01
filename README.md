@@ -106,14 +106,4 @@ Quantitative Finance · Risk Analytics · Statistical Learning · Decision Syste
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharansh-22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF" alt="GitHub Stats" height="170"/>
-
-<br><br>
-
-Open to research collaborations in quantitative finance and financial ML.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharansh-pandey)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sharanshpandey22@gmail.com)
-
-</div>
