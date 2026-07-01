@@ -22,23 +22,7 @@ My projects are structured as research programs: each one begins with a question
 
 <br>
 
----
 
-<br>
-
-## Research Philosophy
-
-> I don't optimise for results. I optimise for the integrity of the process that produces them.
-
-1. **Start with a question** — not a tool
-2. **Design controlled experiments** — baselines, controlled variables, holdout discipline
-3. **Validate without leakage** — out-of-time splits, feature audits, stress tests
-4. **Report honestly** — negative results are findings, not failures
-5. **Ensure reproducibility** — every claim traceable to evidence
-
-<br>
-
----
 
 <br>
 
