@@ -30,7 +30,7 @@ My projects are structured as research programs: each one begins with a question
 
 <br>
 
-**[Credit Risk Platform](https://github.com/sharansh-22/Credit-Risk)**
+**[Credit Risk Platform](https://github.com/sharansh-22/CRIS/tree/main/systems/credit_risk)**
 Leakage-free credit risk modelling on 1.34M LendingClub loans. Systematic feature auditing, out-of-time validation, SHAP-based explainability, stealth defaulter analysis, and economic impact simulation.
 <br>`LightGBM` · `SHAP` · `Pandas` · `Scikit-learn`
 
