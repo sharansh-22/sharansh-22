@@ -126,12 +126,12 @@ A Streamlit application providing inventory monitoring, medicine search, invento
 
 | Area | Technologies |
 |------|--------------|
-| **Languages** | Python · SQL · C++ · Java |
-| **Machine Learning** | LightGBM · XGBoost · PyTorch · Scikit-learn |
-| **Data Engineering** | Pandas · Polars · Dagster |
-| **AI Systems** | FastAPI · FAISS · BM25 · FlashRank |
-| **Infrastructure** | Docker · Git · Linux · Weights & Biases |
-| **Databases** | PostgreSQL · SQLite · MongoDB |
+| **Languages** | Python · SQL · C++ |
+| **Machine Learning** | Keras · TensorFlow · PyTorch · Scikit-learn |
+| **Data Engineering** | Pandas · Pandera · Polars · Dagster |
+| **AI Systems** | FastAPI · FAISS · BM25 · FlashRank · Transformers · LLMs |
+| **Infrastructure** | Docker · Git · Linux · Weights & Biases · Streamlit|
+| **Databases** | PostgreSQL · SQLite · MongoDB · PySpark|
 
 ---
 
